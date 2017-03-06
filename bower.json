@@ -1,0 +1,17 @@
+{
+  "name": "10-minute-app",
+  "authors": [
+    "Mui Kai En <muikaien1@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
